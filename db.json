@@ -1,6 +1,6 @@
 {
   "wsch": [
-    {
+    { "hl":"day 1",
       "dsch":[{
         "t":"Mongo db",
         "s":"f"
@@ -98,6 +98,7 @@
         "s":"f"
        }]
     }, {
+      "hl":"day 2",
       "dsch":[{
         "t":"Mongo db",
         "s":"f"
