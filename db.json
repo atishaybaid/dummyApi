@@ -1,828 +1,823 @@
 {
-"reco":{
-    "id": "1",
-    "tags": [
-        "mongo",
-        "Kafka",
-        "Redis",
-        "ES"
-    ],
-    "videos": {
-        "all": [],
-        "mongo": [
-            {
-                "videoId": "f0EfmBKV_PI",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "Mongo e Drongo morrem e vão pro céu - desenho animado infantil - animação",
-                "thumbImage": "https://img.youtube.com/vi/f0EfmBKV_PI/0.jpg"
-            },
-            {
-                "videoId": "EV4M2tSifIM",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "Mongo e Drongo - animação infantil super véia: Bichos de estimação. Desenho animado infantil",
-                "thumbImage": "https://img.youtube.com/vi/EV4M2tSifIM/0.jpg"
-            },
-            {
-                "videoId": "oS_18_jRpyo",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "Premiere: Mongo - Planet Mongo (Original Mix)",
-                "thumbImage": "https://img.youtube.com/vi/oS_18_jRpyo/0.jpg"
-            },
-            {
-                "videoId": "UFVFIKduXpo",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "Understanding MongoDB",
-                "thumbImage": "https://img.youtube.com/vi/UFVFIKduXpo/0.jpg"
-            },
-            {
-                "videoId": "tgAj4uOXyus",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "Verrückter Mongo",
-                "thumbImage": "https://img.youtube.com/vi/tgAj4uOXyus/0.jpg"
-            },
-            {
-                "videoId": "TTbjiSjEEMY",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "Mongo e Drongo Show - todos os episódios - 46 minutos de desenho animado - coleção Volume 1",
-                "thumbImage": "https://img.youtube.com/vi/TTbjiSjEEMY/0.jpg"
-            },
-            {
-                "videoId": "lqiXheenjD8",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "MONGO VS REGULAR | VS EP 2",
-                "thumbImage": "https://img.youtube.com/vi/lqiXheenjD8/0.jpg"
-            },
-            {
-                "videoId": "1uFY60CESlM",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "MongoDB Tutorial for Beginners - 1 - Installing Mongo",
-                "thumbImage": "https://img.youtube.com/vi/1uFY60CESlM/0.jpg"
-            },
-            {
-                "videoId": "sCXnZzNGuq4",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "Mongo e Drongo em: Lobisdrongo - desenho de halloween - desenho de lobisomem",
-                "thumbImage": "https://img.youtube.com/vi/sCXnZzNGuq4/0.jpg"
-            },
-            {
-                "videoId": "slbGb0D8FgI",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "mongo pack ft akobe audio",
-                "thumbImage": "https://img.youtube.com/vi/slbGb0D8FgI/0.jpg"
-            },
-            {
-                "videoId": "t9P2B7NUPfM",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "Blazing Saddles (6/10) Movie CLIP - Mongo Comes to Town (1974) HD",
-                "thumbImage": "https://img.youtube.com/vi/t9P2B7NUPfM/0.jpg"
-            },
-            {
-                "videoId": "4gfcepLX-qw",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "What's Wrong with Pushing Mongo?",
-                "thumbImage": "https://img.youtube.com/vi/4gfcepLX-qw/0.jpg"
-            },
-            {
-                "videoId": "VJV3ISuLmnE",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "Mongo e Drongo Respondem de 1 a 7: Curupira, Dinossauros, Bebês, Chapeuzinho vermelho, saci e outros",
-                "thumbImage": "https://img.youtube.com/vi/VJV3ISuLmnE/0.jpg"
-            },
-            {
-                "videoId": "DeiKNN7UccY",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "Mongo e Drongo e o presente de natal - desenho animado infantil com papai noel, renas e presentes",
-                "thumbImage": "https://img.youtube.com/vi/DeiKNN7UccY/0.jpg"
-            },
-            {
-                "videoId": "pWbMrx5rVBE",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "MongoDB In 30 Minutes",
-                "thumbImage": "https://img.youtube.com/vi/pWbMrx5rVBE/0.jpg"
-            },
-            {
-                "videoId": "-0X8mr6Q8Ew",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "MongoDB Tutorial",
-                "thumbImage": "https://img.youtube.com/vi/-0X8mr6Q8Ew/0.jpg"
-            },
-            {
-                "videoId": "PCnBf0QJTzo",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "Tribu Mongo / Équateur  DR Congo",
-                "thumbImage": "https://img.youtube.com/vi/PCnBf0QJTzo/0.jpg"
-            },
-            {
-                "videoId": "PFP0oXNNveg",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "MEAN App From Scratch - MongoDB, Express, Angular 2 & NodeJS",
-                "thumbImage": "https://img.youtube.com/vi/PFP0oXNNveg/0.jpg"
-            },
-            {
-                "videoId": "yG0oBPtyNb0",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "Mungo Jerry - In the summertime",
-                "thumbImage": "https://img.youtube.com/vi/yG0oBPtyNb0/0.jpg"
-            },
-            {
-                "videoId": "tgckAOyjXPI",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "MongoDB вводная лекция",
-                "thumbImage": "https://img.youtube.com/vi/tgckAOyjXPI/0.jpg"
-            },
-            {
-                "videoId": "SKRma7PDW10",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "Mongo only pawn in game of life",
-                "thumbImage": "https://img.youtube.com/vi/SKRma7PDW10/0.jpg"
-            },
-            {
-                "videoId": "28khv-BydeY",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "Blazing Saddles - Mongo",
-                "thumbImage": "https://img.youtube.com/vi/28khv-BydeY/0.jpg"
-            },
-            {
-                "videoId": "RmRVc3EbDIo",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "Mongo e Drongo em Drongo se diverte - assistir desenhos animados com dinossauro - animação infantil",
-                "thumbImage": "https://img.youtube.com/vi/RmRVc3EbDIo/0.jpg"
-            },
-            {
-                "videoId": "ErqLqSM1Ixc",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "5 Reasons Everyone Should Push Mongo",
-                "thumbImage": "https://img.youtube.com/vi/ErqLqSM1Ixc/0.jpg"
-            },
-            {
-                "videoId": "yXodVLp5da0",
-                "tags": [
-                    "mongo"
-                ],
-                "description": "Mongo e Drongo fazem bolo - desenho animado infantil - animação em português",
-                "thumbImage": "https://img.youtube.com/vi/yXodVLp5da0/0.jpg"
-            }
+    "reco": {
+        "id": "1",
+        "tags": [
+            "mongo",
+            "Kafka",
+            "Redis",
+            "ES"
         ],
-        "Kafka": [
-            {
-                "videoId": "BGhlHsFBhLE",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "Apache Kafka Tutorial - 1 | What is Apache Kafka? | Kafka Tutorial for Beginners - 1 | Edureka",
-                "thumbImage": "https://img.youtube.com/vi/BGhlHsFBhLE/0.jpg"
-            },
-            {
-                "videoId": "dZO2vli6XbM",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "Audiolibro completo: 'La metamorfosis', de Franz Kafka (1915)",
-                "thumbImage": "https://img.youtube.com/vi/dZO2vli6XbM/0.jpg"
-            },
-            {
-                "videoId": "DFHzbK2Tuak",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "Introduction To Apache Kafka Certification Training  | Simplilearn",
-                "thumbImage": "https://img.youtube.com/vi/DFHzbK2Tuak/0.jpg"
-            },
-            {
-                "videoId": "I32hmY4diFY",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka",
-                "thumbImage": "https://img.youtube.com/vi/I32hmY4diFY/0.jpg"
-            },
-            {
-                "videoId": "8yxxQ6psEbo",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "Abonnement opzeggen? Geen probleem! | Kafka",
-                "thumbImage": "https://img.youtube.com/vi/8yxxQ6psEbo/0.jpg"
-            },
-            {
-                "videoId": "vrMTl6ttUVM",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "El Proceso De Franz Kafka (Audiolibro)",
-                "thumbImage": "https://img.youtube.com/vi/vrMTl6ttUVM/0.jpg"
-            },
-            {
-                "videoId": "GB_4jtT1BTQ",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "HOSTINA Vladimíra Kafky \"Vdechnout život\", OLOMOUC, 4. 11. 2017",
-                "thumbImage": "https://img.youtube.com/vi/GB_4jtT1BTQ/0.jpg"
-            },
-            {
-                "videoId": "A45uRzJiv7I",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "KSQL from Confluent | Streaming SQL for Apache Kafka®",
-                "thumbImage": "https://img.youtube.com/vi/A45uRzJiv7I/0.jpg"
-            },
-            {
-                "videoId": "GRPLRONVDWY",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "Developing Real-Time Data Pipelines with Apache Kafka",
-                "thumbImage": "https://img.youtube.com/vi/GRPLRONVDWY/0.jpg"
-            },
-            {
-                "videoId": "Q5wOegcVa8E",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "Understanding Kafka with Legos",
-                "thumbImage": "https://img.youtube.com/vi/Q5wOegcVa8E/0.jpg"
-            },
-            {
-                "videoId": "qc33qMUvR7c",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "Introduction to Apache Kafka by Joe Stein",
-                "thumbImage": "https://img.youtube.com/vi/qc33qMUvR7c/0.jpg"
-            },
-            {
-                "videoId": "k-7lz6Ex354",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "Understanding Kafka",
-                "thumbImage": "https://img.youtube.com/vi/k-7lz6Ex354/0.jpg"
-            },
-            {
-                "videoId": "mAgmwHHR6xY",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "What is Apache Kafka?",
-                "thumbImage": "https://img.youtube.com/vi/mAgmwHHR6xY/0.jpg"
-            },
-            {
-                "videoId": "JjI2a7g1ZXs",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "Kafka   Steven Soderbergh",
-                "thumbImage": "https://img.youtube.com/vi/JjI2a7g1ZXs/0.jpg"
-            },
-            {
-                "videoId": "zpJ9r-BmvYY",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "Franz Kafka Mini Documentary",
-                "thumbImage": "https://img.youtube.com/vi/zpJ9r-BmvYY/0.jpg"
-            },
-            {
-                "videoId": "vnY_dNrT13s",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "Klassiker der Weltliteratur: Franz Kafka | BR-alpha",
-                "thumbImage": "https://img.youtube.com/vi/vnY_dNrT13s/0.jpg"
-            },
-            {
-                "videoId": "g4LyzhkDNBM",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "LITERATURE: Franz Kafka",
-                "thumbImage": "https://img.youtube.com/vi/g4LyzhkDNBM/0.jpg"
-            },
-            {
-                "videoId": "Ai4n_NcKLZQ",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "Kafka Tutorial - Consumer Groups",
-                "thumbImage": "https://img.youtube.com/vi/Ai4n_NcKLZQ/0.jpg"
-            },
-            {
-                "videoId": "m3nDXG7vkwk",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "14 -- Franz Kafka e il grottesto del quotidiano -- Alessandro Piperno",
-                "thumbImage": "https://img.youtube.com/vi/m3nDXG7vkwk/0.jpg"
-            },
-            {
-                "videoId": "UEg40Te8pnE",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "Introduction to Apache Kafka by James Ward",
-                "thumbImage": "https://img.youtube.com/vi/UEg40Te8pnE/0.jpg"
-            },
-            {
-                "videoId": "gAjmzFMQtiY",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "Microservices with Kafka by Albert Laszlo Robert",
-                "thumbImage": "https://img.youtube.com/vi/gAjmzFMQtiY/0.jpg"
-            },
-            {
-                "videoId": "EiWsPd6JDoo",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "How Does Apache Kafka Work? [Diagram]",
-                "thumbImage": "https://img.youtube.com/vi/EiWsPd6JDoo/0.jpg"
-            },
-            {
-                "videoId": "wkPR4Rcf4ww",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "What makes something \"Kafkaesque\"? - Noah Tavlin",
-                "thumbImage": "https://img.youtube.com/vi/wkPR4Rcf4ww/0.jpg"
-            },
-            {
-                "videoId": "udnX21__SuU",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "Kafka Tutorial - Core Concepts",
-                "thumbImage": "https://img.youtube.com/vi/udnX21__SuU/0.jpg"
-            },
-            {
-                "videoId": "KAmwNxlEodM",
-                "tags": [
-                    "Kafka"
-                ],
-                "description": "125 Jahre Franz Kafka",
-                "thumbImage": "https://img.youtube.com/vi/KAmwNxlEodM/0.jpg"
-            }
-        ],
-        "Redis": [
-            {
-                "videoId": "OG610oe_kxs",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Why Redis?",
-                "thumbImage": "https://img.youtube.com/vi/OG610oe_kxs/0.jpg"
-            },
-            {
-                "videoId": "o3a9dSxOykU",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "NinjaTip #18 - Introducción a Redis",
-                "thumbImage": "https://img.youtube.com/vi/o3a9dSxOykU/0.jpg"
-            },
-            {
-                "videoId": "HNDtcXVo5ow",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Redis Beginner Tutorial 1 - What is REDIS",
-                "thumbImage": "https://img.youtube.com/vi/HNDtcXVo5ow/0.jpg"
-            },
-            {
-                "videoId": "7W1n_SwTw14",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Getting started with redis part 1: what is redis?",
-                "thumbImage": "https://img.youtube.com/vi/7W1n_SwTw14/0.jpg"
-            },
-            {
-                "videoId": "58tazVSghA8",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Escalando Aplicações Usando Redis",
-                "thumbImage": "https://img.youtube.com/vi/58tazVSghA8/0.jpg"
-            },
-            {
-                "videoId": "M8lPr5Rf290",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Redis: la herramienta indicada.",
-                "thumbImage": "https://img.youtube.com/vi/M8lPr5Rf290/0.jpg"
-            },
-            {
-                "videoId": "8Unaug_vmFI",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Redis Use Patterns: An Introduction to the SQL Practitioner",
-                "thumbImage": "https://img.youtube.com/vi/8Unaug_vmFI/0.jpg"
-            },
-            {
-                "videoId": "kUmrYQO51uA",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Redis Beginner Tutorial 2 - Why to use REDIS",
-                "thumbImage": "https://img.youtube.com/vi/kUmrYQO51uA/0.jpg"
-            },
-            {
-                "videoId": "wFtVC3w91k4",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Redis is Super Fast (NoSQL)",
-                "thumbImage": "https://img.youtube.com/vi/wFtVC3w91k4/0.jpg"
-            },
-            {
-                "videoId": "uJb4HjtvcIE",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Redis Tutorial - Intro to Redis w/ Node.js Demo",
-                "thumbImage": "https://img.youtube.com/vi/uJb4HjtvcIE/0.jpg"
-            },
-            {
-                "videoId": "RHyNR5Cm8Tc",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "What's a good use case for Redis?",
-                "thumbImage": "https://img.youtube.com/vi/RHyNR5Cm8Tc/0.jpg"
-            },
-            {
-                "videoId": "eYfopvusG_s",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Spring Data Redis in Spring Boot Example | Tech Primers",
-                "thumbImage": "https://img.youtube.com/vi/eYfopvusG_s/0.jpg"
-            },
-            {
-                "videoId": "KUmXD_ubJU0",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Tutoriel Serveur : Les bases de Redis",
-                "thumbImage": "https://img.youtube.com/vi/KUmXD_ubJU0/0.jpg"
-            },
-            {
-                "videoId": "Wxd6sMUhgBg",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "What is Redis? | Why and When to use Redis? | Tech Primers",
-                "thumbImage": "https://img.youtube.com/vi/Wxd6sMUhgBg/0.jpg"
-            },
-            {
-                "videoId": "1IN0-SlmNxs",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Redis Tutorial for Beginners 7 - Redis Hashes",
-                "thumbImage": "https://img.youtube.com/vi/1IN0-SlmNxs/0.jpg"
-            },
-            {
-                "videoId": "jTTlBc2-T9Q",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Dave Nielsen: Top 5 uses of Redis as a Database",
-                "thumbImage": "https://img.youtube.com/vi/jTTlBc2-T9Q/0.jpg"
-            },
-            {
-                "videoId": "64VG179N4no",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Redis Tutorial for Beginners 1 - Introduction",
-                "thumbImage": "https://img.youtube.com/vi/64VG179N4no/0.jpg"
-            },
-            {
-                "videoId": "gHUQAzDck6o",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Connect to Redis Database in Java",
-                "thumbImage": "https://img.youtube.com/vi/gHUQAzDck6o/0.jpg"
-            },
-            {
-                "videoId": "Ql3qP7hp1mA",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Advanced Data Structures with Redis",
-                "thumbImage": "https://img.youtube.com/vi/Ql3qP7hp1mA/0.jpg"
-            },
-            {
-                "videoId": "9S-mphgE5fA",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Build A Node.js & Redis App From Scratch",
-                "thumbImage": "https://img.youtube.com/vi/9S-mphgE5fA/0.jpg"
-            },
-            {
-                "videoId": "OeVHnyztV9A",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "What Is Redis And What Is It Used For?",
-                "thumbImage": "https://img.youtube.com/vi/OeVHnyztV9A/0.jpg"
-            },
-            {
-                "videoId": "VvK-uLWDHFo",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Next Level Redis with Spring",
-                "thumbImage": "https://img.youtube.com/vi/VvK-uLWDHFo/0.jpg"
-            },
-            {
-                "videoId": "CoQcNgfPYPc",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Why and When You Should Use Redis",
-                "thumbImage": "https://img.youtube.com/vi/CoQcNgfPYPc/0.jpg"
-            },
-            {
-                "videoId": "rP9EKvWt0zo",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Scaling Redis at Twitter",
-                "thumbImage": "https://img.youtube.com/vi/rP9EKvWt0zo/0.jpg"
-            },
-            {
-                "videoId": "Hbt56gFj998",
-                "tags": [
-                    "Redis"
-                ],
-                "description": "Redis Crash Course Tutorial",
-                "thumbImage": "https://img.youtube.com/vi/Hbt56gFj998/0.jpg"
-            }
-        ],
-        "ES": [
-            {
-                "videoId": "snoWTaYnnbg",
-                "tags": [
-                    "ES"
-                ],
-                "description": "¿Es cierto que Kylie Jenner Perdió el Bebé!?",
-                "thumbImage": "https://img.youtube.com/vi/snoWTaYnnbg/0.jpg"
-            },
-            {
-                "videoId": "bf_fl1AAwiI",
-                "tags": [
-                    "ES"
-                ],
-                "description": "De último momento: Jesús 'Tecatito' Corona es baja del Tricolor",
-                "thumbImage": "https://img.youtube.com/vi/bf_fl1AAwiI/0.jpg"
-            },
-            {
-                "videoId": "hDtAiGO4xKE",
-                "tags": [
-                    "ES"
-                ],
-                "description": "Este Fidget Spinner es un celular y funciona !!",
-                "thumbImage": "https://img.youtube.com/vi/hDtAiGO4xKE/0.jpg"
-            },
-            {
-                "videoId": "sVkODVL6PRM",
-                "tags": [
-                    "ES"
-                ],
-                "description": "ES - Official Trailer Deutsch HD German (2017)",
-                "thumbImage": "https://img.youtube.com/vi/sVkODVL6PRM/0.jpg"
-            },
-            {
-                "videoId": "L6q34UoBVak",
-                "tags": [
-                    "ES"
-                ],
-                "description": "Este es el show - Programa 08/11/17",
-                "thumbImage": "https://img.youtube.com/vi/L6q34UoBVak/0.jpg"
-            },
-            {
-                "videoId": "PFp_NMRgS_Y",
-                "tags": [
-                    "ES"
-                ],
-                "description": "POR ESO LA MAYORÍA DE LAS AERONAVES ES BLANCA",
-                "thumbImage": "https://img.youtube.com/vi/PFp_NMRgS_Y/0.jpg"
-            },
-            {
-                "videoId": "IaXAaI5K_h8",
-                "tags": [
-                    "ES"
-                ],
-                "description": "ASÍ Es El PARKOUR Y El NUEVO MAPA Del DESIERTO!! PUBG!",
-                "thumbImage": "https://img.youtube.com/vi/IaXAaI5K_h8/0.jpg"
-            },
-            {
-                "videoId": "x4-xU6D75Ww",
-                "tags": [
-                    "ES"
-                ],
-                "description": "ASÍ ES LA ZOE BRONZA!! NUEVA CAMPEONA (League of Legends)",
-                "thumbImage": "https://img.youtube.com/vi/x4-xU6D75Ww/0.jpg"
-            },
-            {
-                "videoId": "QCl8lwhcR5U",
-                "tags": [
-                    "ES"
-                ],
-                "description": "¿CUÁL ES TU EDAD MENTAL? 5 PREGUNTAS PARA PONER A PRUEBA TU CEREBRO",
-                "thumbImage": "https://img.youtube.com/vi/QCl8lwhcR5U/0.jpg"
-            },
-            {
-                "videoId": "TZwnZCAdo4o",
-                "tags": [
-                    "ES"
-                ],
-                "description": "💥¿AUTOCLICK O JITTER CLICK - BUTTERFLY CLICK?💥 | ¿QUÉ ES MEJOR? #7.",
-                "thumbImage": "https://img.youtube.com/vi/TZwnZCAdo4o/0.jpg"
-            },
-            {
-                "videoId": "-IbqofCelbQ",
-                "tags": [
-                    "ES"
-                ],
-                "description": "ESTE BOTON ES IMPOSIBLE DE ENCONTRAR 😡😱 !! - MINECRAFT FIND THE BUTTON",
-                "thumbImage": "https://img.youtube.com/vi/-IbqofCelbQ/0.jpg"
-            },
-            {
-                "videoId": "rZ9ASyW7fB8",
-                "tags": [
-                    "ES"
-                ],
-                "description": "Emes Milligan - Mi Casa Es Su Casa (prod. Emes Milligan)",
-                "thumbImage": "https://img.youtube.com/vi/rZ9ASyW7fB8/0.jpg"
-            },
-            {
-                "videoId": "EKk9Di9dQj4",
-                "tags": [
-                    "ES"
-                ],
-                "description": "#MaratonSagaLive - Es medianoche y sigue el Maratón Saga Live",
-                "thumbImage": "https://img.youtube.com/vi/EKk9Di9dQj4/0.jpg"
-            },
-            {
-                "videoId": "n7BfOOOzyvM",
-                "tags": [
-                    "ES"
-                ],
-                "description": "La Vida Moderna 4x39...es aprovechar los 280 caracteres para hacer tu testamento",
-                "thumbImage": "https://img.youtube.com/vi/n7BfOOOzyvM/0.jpg"
-            },
-            {
-                "videoId": "nZ1UmAnDaPI",
-                "tags": [
-                    "ES"
-                ],
-                "description": "¿QUIEN ES MALLUS? - Legends of Tomorrow 3x05 Arrow Crossover Review.",
-                "thumbImage": "https://img.youtube.com/vi/nZ1UmAnDaPI/0.jpg"
-            },
-            {
-                "videoId": "ajVwFBdA8UA",
-                "tags": [
-                    "ES"
-                ],
-                "description": "Mustafa Ceceli - Es",
-                "thumbImage": "https://img.youtube.com/vi/ajVwFBdA8UA/0.jpg"
-            },
-            {
-                "videoId": "rZJoXXNGYag",
-                "tags": [
-                    "ES"
-                ],
-                "description": "Wie schwer ist es, einen Guinness Weltrekord zu brechen?",
-                "thumbImage": "https://img.youtube.com/vi/rZJoXXNGYag/0.jpg"
-            },
-            {
-                "videoId": "y3s_RR8TmL4",
-                "tags": [
-                    "ES"
-                ],
-                "description": "Banda Carnaval - Mi Vida Es Un Carnaval",
-                "thumbImage": "https://img.youtube.com/vi/y3s_RR8TmL4/0.jpg"
-            },
-            {
-                "videoId": "p-Ane5_oH7g",
-                "tags": [
-                    "ES"
-                ],
-                "description": "Das überraschende Geheimnis von Pennywise aus ES!",
-                "thumbImage": "https://img.youtube.com/vi/p-Ane5_oH7g/0.jpg"
-            },
-            {
-                "videoId": "Kx7Fd39K2xE",
-                "tags": [
-                    "ES"
-                ],
-                "description": "La cirujana cheta es furor",
-                "thumbImage": "https://img.youtube.com/vi/Kx7Fd39K2xE/0.jpg"
-            },
-            {
-                "videoId": "ailVwNVJsSs",
-                "tags": [
-                    "ES"
-                ],
-                "description": "ES Trailer 3 German Deutsch (2017)",
-                "thumbImage": "https://img.youtube.com/vi/ailVwNVJsSs/0.jpg"
-            },
-            {
-                "videoId": "dt9jVFgZ_Qs",
-                "tags": [
-                    "ES"
-                ],
-                "description": "Mi abuelo es un peligro (2016) Tráiler (Zac Efron, Robert De Niro) Español",
-                "thumbImage": "https://img.youtube.com/vi/dt9jVFgZ_Qs/0.jpg"
-            },
-            {
-                "videoId": "UHFbt-qsDNg",
-                "tags": [
-                    "ES"
-                ],
-                "description": "ES 1990 / 2017 deutsch",
-                "thumbImage": "https://img.youtube.com/vi/UHFbt-qsDNg/0.jpg"
-            },
-            {
-                "videoId": "lcCt9THO5wY",
-                "tags": [
-                    "ES"
-                ],
-                "description": "Apple es demandada por patente en cámara dual | El recuento",
-                "thumbImage": "https://img.youtube.com/vi/lcCt9THO5wY/0.jpg"
-            },
-            {
-                "videoId": "louggKlugl8",
-                "tags": [
-                    "ES"
-                ],
-                "description": "Así es la escuela más cara del mundo | HARVARD",
-                "thumbImage": "https://img.youtube.com/vi/louggKlugl8/0.jpg"
-            }
-        ]
-    },
-    "users": [],
-    "seminars": []
-}
+        "videos": {
+            "all": [],
+            "mongo": [{
+                    "videoId": "f0EfmBKV_PI",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "Mongo e Drongo morrem e vão pro céu - desenho animado infantil - animação",
+                    "thumbImage": "https://img.youtube.com/vi/f0EfmBKV_PI/0.jpg"
+                },
+                {
+                    "videoId": "EV4M2tSifIM",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "Mongo e Drongo - animação infantil super véia: Bichos de estimação. Desenho animado infantil",
+                    "thumbImage": "https://img.youtube.com/vi/EV4M2tSifIM/0.jpg"
+                },
+                {
+                    "videoId": "oS_18_jRpyo",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "Premiere: Mongo - Planet Mongo (Original Mix)",
+                    "thumbImage": "https://img.youtube.com/vi/oS_18_jRpyo/0.jpg"
+                },
+                {
+                    "videoId": "UFVFIKduXpo",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "Understanding MongoDB",
+                    "thumbImage": "https://img.youtube.com/vi/UFVFIKduXpo/0.jpg"
+                },
+                {
+                    "videoId": "tgAj4uOXyus",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "Verrückter Mongo",
+                    "thumbImage": "https://img.youtube.com/vi/tgAj4uOXyus/0.jpg"
+                },
+                {
+                    "videoId": "TTbjiSjEEMY",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "Mongo e Drongo Show - todos os episódios - 46 minutos de desenho animado - coleção Volume 1",
+                    "thumbImage": "https://img.youtube.com/vi/TTbjiSjEEMY/0.jpg"
+                },
+                {
+                    "videoId": "lqiXheenjD8",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "MONGO VS REGULAR | VS EP 2",
+                    "thumbImage": "https://img.youtube.com/vi/lqiXheenjD8/0.jpg"
+                },
+                {
+                    "videoId": "1uFY60CESlM",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "MongoDB Tutorial for Beginners - 1 - Installing Mongo",
+                    "thumbImage": "https://img.youtube.com/vi/1uFY60CESlM/0.jpg"
+                },
+                {
+                    "videoId": "sCXnZzNGuq4",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "Mongo e Drongo em: Lobisdrongo - desenho de halloween - desenho de lobisomem",
+                    "thumbImage": "https://img.youtube.com/vi/sCXnZzNGuq4/0.jpg"
+                },
+                {
+                    "videoId": "slbGb0D8FgI",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "mongo pack ft akobe audio",
+                    "thumbImage": "https://img.youtube.com/vi/slbGb0D8FgI/0.jpg"
+                },
+                {
+                    "videoId": "t9P2B7NUPfM",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "Blazing Saddles (6/10) Movie CLIP - Mongo Comes to Town (1974) HD",
+                    "thumbImage": "https://img.youtube.com/vi/t9P2B7NUPfM/0.jpg"
+                },
+                {
+                    "videoId": "4gfcepLX-qw",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "What's Wrong with Pushing Mongo?",
+                    "thumbImage": "https://img.youtube.com/vi/4gfcepLX-qw/0.jpg"
+                },
+                {
+                    "videoId": "VJV3ISuLmnE",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "Mongo e Drongo Respondem de 1 a 7: Curupira, Dinossauros, Bebês, Chapeuzinho vermelho, saci e outros",
+                    "thumbImage": "https://img.youtube.com/vi/VJV3ISuLmnE/0.jpg"
+                },
+                {
+                    "videoId": "DeiKNN7UccY",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "Mongo e Drongo e o presente de natal - desenho animado infantil com papai noel, renas e presentes",
+                    "thumbImage": "https://img.youtube.com/vi/DeiKNN7UccY/0.jpg"
+                },
+                {
+                    "videoId": "pWbMrx5rVBE",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "MongoDB In 30 Minutes",
+                    "thumbImage": "https://img.youtube.com/vi/pWbMrx5rVBE/0.jpg"
+                },
+                {
+                    "videoId": "-0X8mr6Q8Ew",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "MongoDB Tutorial",
+                    "thumbImage": "https://img.youtube.com/vi/-0X8mr6Q8Ew/0.jpg"
+                },
+                {
+                    "videoId": "PCnBf0QJTzo",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "Tribu Mongo / Équateur  DR Congo",
+                    "thumbImage": "https://img.youtube.com/vi/PCnBf0QJTzo/0.jpg"
+                },
+                {
+                    "videoId": "PFP0oXNNveg",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "MEAN App From Scratch - MongoDB, Express, Angular 2 & NodeJS",
+                    "thumbImage": "https://img.youtube.com/vi/PFP0oXNNveg/0.jpg"
+                },
+                {
+                    "videoId": "yG0oBPtyNb0",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "Mungo Jerry - In the summertime",
+                    "thumbImage": "https://img.youtube.com/vi/yG0oBPtyNb0/0.jpg"
+                },
+                {
+                    "videoId": "tgckAOyjXPI",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "MongoDB вводная лекция",
+                    "thumbImage": "https://img.youtube.com/vi/tgckAOyjXPI/0.jpg"
+                },
+                {
+                    "videoId": "SKRma7PDW10",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "Mongo only pawn in game of life",
+                    "thumbImage": "https://img.youtube.com/vi/SKRma7PDW10/0.jpg"
+                },
+                {
+                    "videoId": "28khv-BydeY",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "Blazing Saddles - Mongo",
+                    "thumbImage": "https://img.youtube.com/vi/28khv-BydeY/0.jpg"
+                },
+                {
+                    "videoId": "RmRVc3EbDIo",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "Mongo e Drongo em Drongo se diverte - assistir desenhos animados com dinossauro - animação infantil",
+                    "thumbImage": "https://img.youtube.com/vi/RmRVc3EbDIo/0.jpg"
+                },
+                {
+                    "videoId": "ErqLqSM1Ixc",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "5 Reasons Everyone Should Push Mongo",
+                    "thumbImage": "https://img.youtube.com/vi/ErqLqSM1Ixc/0.jpg"
+                },
+                {
+                    "videoId": "yXodVLp5da0",
+                    "tags": [
+                        "mongo"
+                    ],
+                    "description": "Mongo e Drongo fazem bolo - desenho animado infantil - animação em português",
+                    "thumbImage": "https://img.youtube.com/vi/yXodVLp5da0/0.jpg"
+                }
+            ],
+            "Kafka": [{
+                    "videoId": "BGhlHsFBhLE",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "Apache Kafka Tutorial - 1 | What is Apache Kafka? | Kafka Tutorial for Beginners - 1 | Edureka",
+                    "thumbImage": "https://img.youtube.com/vi/BGhlHsFBhLE/0.jpg"
+                },
+                {
+                    "videoId": "dZO2vli6XbM",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "Audiolibro completo: 'La metamorfosis', de Franz Kafka (1915)",
+                    "thumbImage": "https://img.youtube.com/vi/dZO2vli6XbM/0.jpg"
+                },
+                {
+                    "videoId": "DFHzbK2Tuak",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "Introduction To Apache Kafka Certification Training  | Simplilearn",
+                    "thumbImage": "https://img.youtube.com/vi/DFHzbK2Tuak/0.jpg"
+                },
+                {
+                    "videoId": "I32hmY4diFY",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "ETL Is Dead, Long Live Streams: real-time streams w/ Apache Kafka",
+                    "thumbImage": "https://img.youtube.com/vi/I32hmY4diFY/0.jpg"
+                },
+                {
+                    "videoId": "8yxxQ6psEbo",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "Abonnement opzeggen? Geen probleem! | Kafka",
+                    "thumbImage": "https://img.youtube.com/vi/8yxxQ6psEbo/0.jpg"
+                },
+                {
+                    "videoId": "vrMTl6ttUVM",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "El Proceso De Franz Kafka (Audiolibro)",
+                    "thumbImage": "https://img.youtube.com/vi/vrMTl6ttUVM/0.jpg"
+                },
+                {
+                    "videoId": "GB_4jtT1BTQ",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "HOSTINA Vladimíra Kafky \"Vdechnout život\", OLOMOUC, 4. 11. 2017",
+                    "thumbImage": "https://img.youtube.com/vi/GB_4jtT1BTQ/0.jpg"
+                },
+                {
+                    "videoId": "A45uRzJiv7I",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "KSQL from Confluent | Streaming SQL for Apache Kafka®",
+                    "thumbImage": "https://img.youtube.com/vi/A45uRzJiv7I/0.jpg"
+                },
+                {
+                    "videoId": "GRPLRONVDWY",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "Developing Real-Time Data Pipelines with Apache Kafka",
+                    "thumbImage": "https://img.youtube.com/vi/GRPLRONVDWY/0.jpg"
+                },
+                {
+                    "videoId": "Q5wOegcVa8E",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "Understanding Kafka with Legos",
+                    "thumbImage": "https://img.youtube.com/vi/Q5wOegcVa8E/0.jpg"
+                },
+                {
+                    "videoId": "qc33qMUvR7c",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "Introduction to Apache Kafka by Joe Stein",
+                    "thumbImage": "https://img.youtube.com/vi/qc33qMUvR7c/0.jpg"
+                },
+                {
+                    "videoId": "k-7lz6Ex354",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "Understanding Kafka",
+                    "thumbImage": "https://img.youtube.com/vi/k-7lz6Ex354/0.jpg"
+                },
+                {
+                    "videoId": "mAgmwHHR6xY",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "What is Apache Kafka?",
+                    "thumbImage": "https://img.youtube.com/vi/mAgmwHHR6xY/0.jpg"
+                },
+                {
+                    "videoId": "JjI2a7g1ZXs",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "Kafka   Steven Soderbergh",
+                    "thumbImage": "https://img.youtube.com/vi/JjI2a7g1ZXs/0.jpg"
+                },
+                {
+                    "videoId": "zpJ9r-BmvYY",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "Franz Kafka Mini Documentary",
+                    "thumbImage": "https://img.youtube.com/vi/zpJ9r-BmvYY/0.jpg"
+                },
+                {
+                    "videoId": "vnY_dNrT13s",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "Klassiker der Weltliteratur: Franz Kafka | BR-alpha",
+                    "thumbImage": "https://img.youtube.com/vi/vnY_dNrT13s/0.jpg"
+                },
+                {
+                    "videoId": "g4LyzhkDNBM",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "LITERATURE: Franz Kafka",
+                    "thumbImage": "https://img.youtube.com/vi/g4LyzhkDNBM/0.jpg"
+                },
+                {
+                    "videoId": "Ai4n_NcKLZQ",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "Kafka Tutorial - Consumer Groups",
+                    "thumbImage": "https://img.youtube.com/vi/Ai4n_NcKLZQ/0.jpg"
+                },
+                {
+                    "videoId": "m3nDXG7vkwk",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "14 -- Franz Kafka e il grottesto del quotidiano -- Alessandro Piperno",
+                    "thumbImage": "https://img.youtube.com/vi/m3nDXG7vkwk/0.jpg"
+                },
+                {
+                    "videoId": "UEg40Te8pnE",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "Introduction to Apache Kafka by James Ward",
+                    "thumbImage": "https://img.youtube.com/vi/UEg40Te8pnE/0.jpg"
+                },
+                {
+                    "videoId": "gAjmzFMQtiY",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "Microservices with Kafka by Albert Laszlo Robert",
+                    "thumbImage": "https://img.youtube.com/vi/gAjmzFMQtiY/0.jpg"
+                },
+                {
+                    "videoId": "EiWsPd6JDoo",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "How Does Apache Kafka Work? [Diagram]",
+                    "thumbImage": "https://img.youtube.com/vi/EiWsPd6JDoo/0.jpg"
+                },
+                {
+                    "videoId": "wkPR4Rcf4ww",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "What makes something \"Kafkaesque\"? - Noah Tavlin",
+                    "thumbImage": "https://img.youtube.com/vi/wkPR4Rcf4ww/0.jpg"
+                },
+                {
+                    "videoId": "udnX21__SuU",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "Kafka Tutorial - Core Concepts",
+                    "thumbImage": "https://img.youtube.com/vi/udnX21__SuU/0.jpg"
+                },
+                {
+                    "videoId": "KAmwNxlEodM",
+                    "tags": [
+                        "Kafka"
+                    ],
+                    "description": "125 Jahre Franz Kafka",
+                    "thumbImage": "https://img.youtube.com/vi/KAmwNxlEodM/0.jpg"
+                }
+            ],
+            "Redis": [{
+                    "videoId": "OG610oe_kxs",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Why Redis?",
+                    "thumbImage": "https://img.youtube.com/vi/OG610oe_kxs/0.jpg"
+                },
+                {
+                    "videoId": "o3a9dSxOykU",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "NinjaTip #18 - Introducción a Redis",
+                    "thumbImage": "https://img.youtube.com/vi/o3a9dSxOykU/0.jpg"
+                },
+                {
+                    "videoId": "HNDtcXVo5ow",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Redis Beginner Tutorial 1 - What is REDIS",
+                    "thumbImage": "https://img.youtube.com/vi/HNDtcXVo5ow/0.jpg"
+                },
+                {
+                    "videoId": "7W1n_SwTw14",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Getting started with redis part 1: what is redis?",
+                    "thumbImage": "https://img.youtube.com/vi/7W1n_SwTw14/0.jpg"
+                },
+                {
+                    "videoId": "58tazVSghA8",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Escalando Aplicações Usando Redis",
+                    "thumbImage": "https://img.youtube.com/vi/58tazVSghA8/0.jpg"
+                },
+                {
+                    "videoId": "M8lPr5Rf290",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Redis: la herramienta indicada.",
+                    "thumbImage": "https://img.youtube.com/vi/M8lPr5Rf290/0.jpg"
+                },
+                {
+                    "videoId": "8Unaug_vmFI",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Redis Use Patterns: An Introduction to the SQL Practitioner",
+                    "thumbImage": "https://img.youtube.com/vi/8Unaug_vmFI/0.jpg"
+                },
+                {
+                    "videoId": "kUmrYQO51uA",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Redis Beginner Tutorial 2 - Why to use REDIS",
+                    "thumbImage": "https://img.youtube.com/vi/kUmrYQO51uA/0.jpg"
+                },
+                {
+                    "videoId": "wFtVC3w91k4",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Redis is Super Fast (NoSQL)",
+                    "thumbImage": "https://img.youtube.com/vi/wFtVC3w91k4/0.jpg"
+                },
+                {
+                    "videoId": "uJb4HjtvcIE",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Redis Tutorial - Intro to Redis w/ Node.js Demo",
+                    "thumbImage": "https://img.youtube.com/vi/uJb4HjtvcIE/0.jpg"
+                },
+                {
+                    "videoId": "RHyNR5Cm8Tc",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "What's a good use case for Redis?",
+                    "thumbImage": "https://img.youtube.com/vi/RHyNR5Cm8Tc/0.jpg"
+                },
+                {
+                    "videoId": "eYfopvusG_s",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Spring Data Redis in Spring Boot Example | Tech Primers",
+                    "thumbImage": "https://img.youtube.com/vi/eYfopvusG_s/0.jpg"
+                },
+                {
+                    "videoId": "KUmXD_ubJU0",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Tutoriel Serveur : Les bases de Redis",
+                    "thumbImage": "https://img.youtube.com/vi/KUmXD_ubJU0/0.jpg"
+                },
+                {
+                    "videoId": "Wxd6sMUhgBg",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "What is Redis? | Why and When to use Redis? | Tech Primers",
+                    "thumbImage": "https://img.youtube.com/vi/Wxd6sMUhgBg/0.jpg"
+                },
+                {
+                    "videoId": "1IN0-SlmNxs",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Redis Tutorial for Beginners 7 - Redis Hashes",
+                    "thumbImage": "https://img.youtube.com/vi/1IN0-SlmNxs/0.jpg"
+                },
+                {
+                    "videoId": "jTTlBc2-T9Q",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Dave Nielsen: Top 5 uses of Redis as a Database",
+                    "thumbImage": "https://img.youtube.com/vi/jTTlBc2-T9Q/0.jpg"
+                },
+                {
+                    "videoId": "64VG179N4no",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Redis Tutorial for Beginners 1 - Introduction",
+                    "thumbImage": "https://img.youtube.com/vi/64VG179N4no/0.jpg"
+                },
+                {
+                    "videoId": "gHUQAzDck6o",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Connect to Redis Database in Java",
+                    "thumbImage": "https://img.youtube.com/vi/gHUQAzDck6o/0.jpg"
+                },
+                {
+                    "videoId": "Ql3qP7hp1mA",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Advanced Data Structures with Redis",
+                    "thumbImage": "https://img.youtube.com/vi/Ql3qP7hp1mA/0.jpg"
+                },
+                {
+                    "videoId": "9S-mphgE5fA",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Build A Node.js & Redis App From Scratch",
+                    "thumbImage": "https://img.youtube.com/vi/9S-mphgE5fA/0.jpg"
+                },
+                {
+                    "videoId": "OeVHnyztV9A",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "What Is Redis And What Is It Used For?",
+                    "thumbImage": "https://img.youtube.com/vi/OeVHnyztV9A/0.jpg"
+                },
+                {
+                    "videoId": "VvK-uLWDHFo",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Next Level Redis with Spring",
+                    "thumbImage": "https://img.youtube.com/vi/VvK-uLWDHFo/0.jpg"
+                },
+                {
+                    "videoId": "CoQcNgfPYPc",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Why and When You Should Use Redis",
+                    "thumbImage": "https://img.youtube.com/vi/CoQcNgfPYPc/0.jpg"
+                },
+                {
+                    "videoId": "rP9EKvWt0zo",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Scaling Redis at Twitter",
+                    "thumbImage": "https://img.youtube.com/vi/rP9EKvWt0zo/0.jpg"
+                },
+                {
+                    "videoId": "Hbt56gFj998",
+                    "tags": [
+                        "Redis"
+                    ],
+                    "description": "Redis Crash Course Tutorial",
+                    "thumbImage": "https://img.youtube.com/vi/Hbt56gFj998/0.jpg"
+                }
+            ],
+            "ES": [{
+                    "videoId": "snoWTaYnnbg",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "¿Es cierto que Kylie Jenner Perdió el Bebé!?",
+                    "thumbImage": "https://img.youtube.com/vi/snoWTaYnnbg/0.jpg"
+                },
+                {
+                    "videoId": "bf_fl1AAwiI",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "De último momento: Jesús 'Tecatito' Corona es baja del Tricolor",
+                    "thumbImage": "https://img.youtube.com/vi/bf_fl1AAwiI/0.jpg"
+                },
+                {
+                    "videoId": "hDtAiGO4xKE",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "Este Fidget Spinner es un celular y funciona !!",
+                    "thumbImage": "https://img.youtube.com/vi/hDtAiGO4xKE/0.jpg"
+                },
+                {
+                    "videoId": "sVkODVL6PRM",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "ES - Official Trailer Deutsch HD German (2017)",
+                    "thumbImage": "https://img.youtube.com/vi/sVkODVL6PRM/0.jpg"
+                },
+                {
+                    "videoId": "L6q34UoBVak",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "Este es el show - Programa 08/11/17",
+                    "thumbImage": "https://img.youtube.com/vi/L6q34UoBVak/0.jpg"
+                },
+                {
+                    "videoId": "PFp_NMRgS_Y",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "POR ESO LA MAYORÍA DE LAS AERONAVES ES BLANCA",
+                    "thumbImage": "https://img.youtube.com/vi/PFp_NMRgS_Y/0.jpg"
+                },
+                {
+                    "videoId": "IaXAaI5K_h8",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "ASÍ Es El PARKOUR Y El NUEVO MAPA Del DESIERTO!! PUBG!",
+                    "thumbImage": "https://img.youtube.com/vi/IaXAaI5K_h8/0.jpg"
+                },
+                {
+                    "videoId": "x4-xU6D75Ww",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "ASÍ ES LA ZOE BRONZA!! NUEVA CAMPEONA (League of Legends)",
+                    "thumbImage": "https://img.youtube.com/vi/x4-xU6D75Ww/0.jpg"
+                },
+                {
+                    "videoId": "QCl8lwhcR5U",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "¿CUÁL ES TU EDAD MENTAL? 5 PREGUNTAS PARA PONER A PRUEBA TU CEREBRO",
+                    "thumbImage": "https://img.youtube.com/vi/QCl8lwhcR5U/0.jpg"
+                },
+                {
+                    "videoId": "TZwnZCAdo4o",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "💥¿AUTOCLICK O JITTER CLICK - BUTTERFLY CLICK?💥 | ¿QUÉ ES MEJOR? #7.",
+                    "thumbImage": "https://img.youtube.com/vi/TZwnZCAdo4o/0.jpg"
+                },
+                {
+                    "videoId": "-IbqofCelbQ",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "ESTE BOTON ES IMPOSIBLE DE ENCONTRAR 😡😱 !! - MINECRAFT FIND THE BUTTON",
+                    "thumbImage": "https://img.youtube.com/vi/-IbqofCelbQ/0.jpg"
+                },
+                {
+                    "videoId": "rZ9ASyW7fB8",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "Emes Milligan - Mi Casa Es Su Casa (prod. Emes Milligan)",
+                    "thumbImage": "https://img.youtube.com/vi/rZ9ASyW7fB8/0.jpg"
+                },
+                {
+                    "videoId": "EKk9Di9dQj4",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "#MaratonSagaLive - Es medianoche y sigue el Maratón Saga Live",
+                    "thumbImage": "https://img.youtube.com/vi/EKk9Di9dQj4/0.jpg"
+                },
+                {
+                    "videoId": "n7BfOOOzyvM",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "La Vida Moderna 4x39...es aprovechar los 280 caracteres para hacer tu testamento",
+                    "thumbImage": "https://img.youtube.com/vi/n7BfOOOzyvM/0.jpg"
+                },
+                {
+                    "videoId": "nZ1UmAnDaPI",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "¿QUIEN ES MALLUS? - Legends of Tomorrow 3x05 Arrow Crossover Review.",
+                    "thumbImage": "https://img.youtube.com/vi/nZ1UmAnDaPI/0.jpg"
+                },
+                {
+                    "videoId": "ajVwFBdA8UA",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "Mustafa Ceceli - Es",
+                    "thumbImage": "https://img.youtube.com/vi/ajVwFBdA8UA/0.jpg"
+                },
+                {
+                    "videoId": "rZJoXXNGYag",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "Wie schwer ist es, einen Guinness Weltrekord zu brechen?",
+                    "thumbImage": "https://img.youtube.com/vi/rZJoXXNGYag/0.jpg"
+                },
+                {
+                    "videoId": "y3s_RR8TmL4",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "Banda Carnaval - Mi Vida Es Un Carnaval",
+                    "thumbImage": "https://img.youtube.com/vi/y3s_RR8TmL4/0.jpg"
+                },
+                {
+                    "videoId": "p-Ane5_oH7g",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "Das überraschende Geheimnis von Pennywise aus ES!",
+                    "thumbImage": "https://img.youtube.com/vi/p-Ane5_oH7g/0.jpg"
+                },
+                {
+                    "videoId": "Kx7Fd39K2xE",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "La cirujana cheta es furor",
+                    "thumbImage": "https://img.youtube.com/vi/Kx7Fd39K2xE/0.jpg"
+                },
+                {
+                    "videoId": "ailVwNVJsSs",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "ES Trailer 3 German Deutsch (2017)",
+                    "thumbImage": "https://img.youtube.com/vi/ailVwNVJsSs/0.jpg"
+                },
+                {
+                    "videoId": "dt9jVFgZ_Qs",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "Mi abuelo es un peligro (2016) Tráiler (Zac Efron, Robert De Niro) Español",
+                    "thumbImage": "https://img.youtube.com/vi/dt9jVFgZ_Qs/0.jpg"
+                },
+                {
+                    "videoId": "UHFbt-qsDNg",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "ES 1990 / 2017 deutsch",
+                    "thumbImage": "https://img.youtube.com/vi/UHFbt-qsDNg/0.jpg"
+                },
+                {
+                    "videoId": "lcCt9THO5wY",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "Apple es demandada por patente en cámara dual | El recuento",
+                    "thumbImage": "https://img.youtube.com/vi/lcCt9THO5wY/0.jpg"
+                },
+                {
+                    "videoId": "louggKlugl8",
+                    "tags": [
+                        "ES"
+                    ],
+                    "description": "Así es la escuela más cara del mundo | HARVARD",
+                    "thumbImage": "https://img.youtube.com/vi/louggKlugl8/0.jpg"
+                }
+            ]
+        },
+        "users": [],
+        "seminars": []
+    }
 
 
 }
-  
 
