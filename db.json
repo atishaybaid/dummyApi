@@ -1,5 +1,5 @@
 {
-   "tasks": [
+   "tasks":{ "tasks":[
     { "title": "initial setup", "done": false, "id": 124253253455 },
     {
       "title": "testing hmr thoroughly",
@@ -7,7 +7,7 @@
       "id": 3534433246426
     },
     { "title": "improving the build", "done": false, "id": 45656557756 }
-  ]
+  ]}
 
 }
 
