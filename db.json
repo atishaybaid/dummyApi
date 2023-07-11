@@ -1,13 +1,43 @@
-{
-   "tasks":{ "tasks":[
-    { "title": "initial setup", "done": false, "id": 124253253455 },
-    {
-      "title": "testing hmr thoroughly",
-      "done": false,
-      "id": 3534433246426
-    },
-    { "title": "improving the build", "done": false, "id": 45656557756 }
-  ]}
-
-}
-
+{"plantsList":[
+  {
+    id: 1,
+    plantName: "Rubber",
+    indoor: 1,
+    imgURL: "",
+  },
+  {
+    id: 2,
+    plantName: "Croton",
+    indoor: 1,
+    outdoor: 1,
+    imgURL: "",
+  },
+  {
+    id: 3,
+    plantName: "Arica Palm",
+    indoor: 1,
+    outdoor: 1,
+    imgURL: "",
+  },
+  {
+    id: 4,
+    plantName: "Grass",
+    indoor: 0,
+    outdoor: 1,
+    imgURL: "",
+  },
+  {
+    id: 5,
+    plantName: "Ajvian",
+    indoor: 0,
+    outdoor: 1,
+    imgURL: "",
+  },
+  {
+    id: 6,
+    plantName: "Tulsi",
+    indoor: 0,
+    outdoor: 1,
+    imgURL: "",
+  },
+]}
