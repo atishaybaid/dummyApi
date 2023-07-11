@@ -1,43 +1,44 @@
-{"plantsList":[
-  {
-    "id": 1,
-    "plantName": "Rubber",
-    "indoor": 1,
-    "imgURL": "",
-  },
-  {
-    "id": 2,
-    "plantName": "Croton",
-    "indoor": 1,
-    "outdoor": 1,
-    "imgURL": "",
-  },
-  {
-    "id": 3,
-    "plantName": "Arica Palm",
-    "indoor": 1,
-    "outdoor": 1,
-    "imgURL": "",
-  },
-  {
-    "id": 4,
-    "plantName": "Grass",
-    "indoor": 0,
-    "outdoor": 1,
-    "imgURL": "",
-  },
-  {
-    "id": 5,
-    "plantName": "Ajvian",
-    "indoor": 0,
-    "outdoor": 1,
-    "imgURL": "",
-  },
-  {
-    "id": 6,
-    "plantName": "Tulsi",
-    "indoor": 0,
-    "outdoor": 1,
-    "imgURL": "",
-  },
-]}
+{
+	"plantsList": [{
+			"id": 1,
+			"plantName": "Rubber",
+			"indoor": 1,
+			"imgURL": ""
+		},
+		{
+			"id": 2,
+			"plantName": "Croton",
+			"indoor": 1,
+			"outdoor": 1,
+			"imgURL": 1
+		},
+		{
+			"id": 3,
+			"plantName": "Arica Palm",
+			"indoor": 1,
+			"outdoor": 1,
+			"imgURL": ""
+		},
+		{
+			"id": 4,
+			"plantName": "Grass",
+			"indoor": 0,
+			"outdoor": 1,
+			"imgURL": ""
+		},
+		{
+			"id": 5,
+			"plantName": "Ajvian",
+			"indoor": 0,
+			"outdoor": 1,
+			"imgURL": ""
+		},
+		{
+			"id": 6,
+			"plantName": "Tulsi",
+			"indoor": 0,
+			"outdoor": 1,
+			"imgURL": ""
+		}
+	]
+}
