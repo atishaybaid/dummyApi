@@ -1,7 +1,7 @@
 {
 	"plantsList": [{
 			"id": 1,
-			"plantName": "Rubber",
+			"plantName": "Rubber Plant",
 			"indoor": 1,
 			"imgURL": ""
 		},
