@@ -22,6 +22,8 @@
 			"indoor": 1,
 			"outdoor": 1,
 			"imgURL": "",
+			"key":"arecaPalmDetail"			
+
 			"description":"Areca palms (Dypsis lutescens) are elegant and graceful indoor palms with feathery, arching fronds that add a tropical touch to any space. They do well in bright, indirect light but can tolerate lower light conditions. Keep the soil consistently moist but not waterlogged, ensuring adequate drainage. Areca palms appreciate higher humidity levels, so occasional misting or using a humidifier is beneficial, especially in drier climates. Regularly remove any brown or yellowing fronds to maintain its appearance."
 			
 		},
@@ -39,6 +41,8 @@
 			"indoor": 0,
 			"outdoor": 1,
 			"imgURL": "",
+                        "key":"ajwainPlantDeatil"
+
 			"description":"Ajwain, or Carom, is an aromatic herb known for its pungent, distinctive taste and medicinal properties. It thrives in full sunlight and well-draining soil, allowing the top layer to dry out between waterings. Ajwain plants prefer warm temperatures and can tolerate slightly cooler conditions. Regular harvesting encourages growth and prevents the plant from becoming leggy. They are relatively low-maintenance but benefit from occasional fertilization to enhance growth."
 		},
 		{
@@ -105,7 +109,37 @@
     "Lack of proper drainage in soil",
     "Pests like scale insects or spider mites"
   ]
+},
+"arecaPalmDetail":{
+  "species_detail": {
+    "scientific_name": "Dypsis lutescens",
+    "native_to": "Madagascar",
+    "family": "Arecaceae"
+  },
+  "common_name": "Areca Palm",
+  "caring_tips": {
+    "light": "Bright, indirect light; can tolerate some direct sunlight",
+    "temperature": "65-75°F (18-24°C)",
+    "soil": "Well-draining potting mix",
+    "humidity": "Prefers high humidity",
+    "pruning": "Remove yellow or browning fronds",
+    "fertilization": "Fertilize every 2-4 weeks during growing season"
+  },
+  "watering_frequency": {
+    "guidelines": "Keep soil consistently moist but not waterlogged",
+    "frequency": "Water more frequently in warmer months, reduce in winter"
+  },
+  "indoor_outdoor": "Primarily an indoor plant, can be placed outdoors in shade",
+  "common_reasons_for_failure": [
+    "Overwatering causing root rot",
+    "Insufficient humidity causing browning of leaf tips",
+    "Too much direct sunlight leading to leaf scorch",
+    "Pests like spider mites or mealybugs",
+    "Improper drainage causing root issues"
+  ]
 }
+
+
 
 
 
