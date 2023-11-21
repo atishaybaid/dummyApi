@@ -102,61 +102,7 @@
             "Pests like scale insects or spider mites"
         ]
     },
-    "arecaPalmDetail": {
-        "species_detail": {
-            "scientific_name": "Dypsis lutescens",
-            "native_to": "Madagascar",
-            "family": "Arecaceae"
-        },
-        "common_name": "Areca Palm",
-        "caring_tips": {
-            "light": "Bright, indirect light; can tolerate some direct sunlight",
-            "temperature": "65-75°F (18-24°C)",
-            "soil": "Well-draining potting mix",
-            "humidity": "Prefers high humidity",
-            "pruning": "Remove yellow or browning fronds",
-            "fertilization": "Fertilize every 2-4 weeks during growing season"
-        },
-        "watering_frequency": {
-            "guidelines": "Keep soil consistently moist but not waterlogged",
-            "frequency": "Water more frequently in warmer months, reduce in winter"
-        },
-        "indoor_outdoor": "Primarily an indoor plant, can be placed outdoors in shade",
-        "common_reasons_for_failure": [
-            "Overwatering causing root rot",
-            "Insufficient humidity causing browning of leaf tips",
-            "Too much direct sunlight leading to leaf scorch",
-            "Pests like spider mites or mealybugs",
-            "Improper drainage causing root issues"
-        ]
-    },
-    "crotonPlantDetail": {
-        "species_detail": {
-            "scientific_name": "Codiaeum variegatum",
-            "native_to": "Malaysia, Indonesia, Pacific Islands",
-            "family": "Euphorbiaceae"
-        },
-        "common_name": "Croton Plant",
-        "caring_tips": {
-            "light": "Bright, indirect light; can tolerate some direct sunlight",
-            "temperature": "65-85°F (18-29°C)",
-            "soil": "Well-draining soil mix",
-            "humidity": "Prefers moderate to high humidity",
-            "pruning": "Regular pruning to maintain shape and remove leggy growth",
-            "fertilization": "Fertilize every 2-4 weeks during growing season"
-        },
-        "watering_frequency": {
-            "guidelines": "Allow the top inch of soil to dry between waterings",
-            "frequency": "Water thoroughly when needed, reduce in winter"
-        },
-        "indoor_outdoor": "Primarily grown as an indoor plant",
-        "common_reasons_for_failure": [
-            "Overwatering causing root rot",
-            "Insufficient light leading to leaf drop",
-            "Extreme temperatures causing stress",
-            "Pests like spider mites or mealybugs",
-            "Improper drainage causing root issues"
-        ]
-    },
+   
+    
     
 }
