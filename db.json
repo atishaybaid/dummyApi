@@ -45,35 +45,7 @@
             "key": "holyBasilDetail",
             "description": "Holy Basil, or Tulsi, is a revered herb in many cultures for its religious significance and medicinal properties. It prefers full sunlight and well-draining soil, allowing the top layer to dry between waterings. Regular pruning encourages bushier growth and prevents it from becoming leggy. Holy Basil plants are relatively low-maintenance but benefit from occasional organic fertilization. They can be sensitive to cold temperatures, so protect them from drafts during cooler months."
         }
-    ],
-    "rubberPlantDetail": {
-        "species_detail": {
-            "scientific_name": "Ficus elastica",
-            "native_to": "Southeast Asia",
-            "family": "Moraceae"
-        },
-        "common_name": "Rubber Plant",
-        "caring_tips": {
-            "light": "Bright, indirect light; avoid direct sunlight",
-            "temperature": "60-80°F (15-27°C)",
-            "soil": "Well-draining soil mix",
-            "humidity": "Higher humidity preferred but can adapt to household levels",
-            "pruning": "Regular pruning to maintain shape",
-            "fertilization": "Balanced liquid fertilizer in growing season"
-        },
-        "watering_frequency": {
-            "guidelines": "Allow top inch of soil to dry between waterings",
-            "frequency": "Thorough watering when needed, reduce in winter"
-        },
-        "indoor_outdoor": "Primarily grown indoors as a houseplant; can be outdoors in warm climates with protection from direct sun",
-        "common_reasons_for_failure": [
-            "Overwatering leading to root rot",
-            "Insufficient light causing leggy growth or leaf drop",
-            "Extreme temperatures or drafts causing stress",
-            "Pest infestations like mealybugs, scale, or spider mites",
-            "Poor drainage in soil leading to root problems"
-        ]
-    }
+    ]
    
     
     
