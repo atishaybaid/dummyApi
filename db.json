@@ -77,6 +77,36 @@
     "Pest infestations like mealybugs, scale, or spider mites",
     "Poor drainage in soil leading to root problems"
   ]
+},
+"ajwainPlantDeatil":{
+  "species_detail": {
+    "scientific_name": "Aswan",
+    "native_to": "Egypt",
+    "family": "Arecaceae"
+  },
+  "common_name": "Aswan",
+  "caring_tips": {
+    "light": "Full sun to partial shade",
+    "temperature": "70-90°F (21-32°C)",
+    "soil": "Well-draining soil",
+    "humidity": "Prefers moderate to high humidity",
+    "pruning": "Regular removal of dead or damaged leaves",
+    "fertilization": "Fertilize every 2-4 weeks during growing season"
+  },
+  "watering_frequency": {
+    "guidelines": "Allow top inch of soil to dry before watering",
+    "frequency": "Water thoroughly, but allow excess water to drain"
+  },
+  "indoor_outdoor": "Can be grown indoors or outdoors in warm climates",
+  "common_reasons_for_failure": [
+    "Overwatering causing root rot",
+    "Insufficient light leading to weak growth",
+    "Extreme temperatures or drafts causing stress",
+    "Lack of proper drainage in soil",
+    "Pests like scale insects or spider mites"
+  ]
 }
+
+
 
 }
