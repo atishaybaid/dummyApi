@@ -28,15 +28,6 @@
             "description": "Areca palms (Dypsis lutescens) are elegant and graceful indoor palms with feathery, arching fronds that add a tropical touch to any space. They do well in bright, indirect light but can tolerate lower light conditions. Keep the soil consistently moist but not waterlogged, ensuring adequate drainage. Areca palms appreciate higher humidity levels, so occasional misting or using a humidifier is beneficial, especially in drier climates. Regularly remove any brown or yellowing fronds to maintain its appearance."
         },
         {
-            "id": 4,
-            "plantName": "Grass",
-            "indoor": 0,
-            "outdoor": 1,
-            "imgURL": "",
-            "key": "grassDetail",
-            "description": "Home grasses, also known as ornamental grasses, come in various species, providing lush greenery indoors. They generally thrive in bright, indirect sunlight and well-draining soil, allowing the top layer to dry out between waterings. Regular trimming or grooming helps maintain their shape and prevent them from becoming untidy. These grasses can benefit from occasional fertilization during the growing season to promote healthy growth and vibrant foliage."
-        },
-        {
             "id": 5,
             "plantName": "Ajwian",
             "indoor": 0,
